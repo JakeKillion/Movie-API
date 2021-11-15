@@ -1,0 +1,3 @@
+Once the application is downloaded, set the following:
+- In the MovieStatsService, set the 'statsFilePath' to be the location the stats.csv file is stored on your local machine
+- In the MetadataService, set the 'metadataFilePath' to be the location the metadata.csv file is stored on your local machine
